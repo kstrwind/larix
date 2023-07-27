@@ -1,10 +1,10 @@
-# larix
+#1.  larix
 老K的golang lib库
 
-# debug
+#2 debug
 继承自老K以前的lib-go里实现的 vardump函数
 
-## VarDump
+##2.1 VarDump
 类似PHP的var_dump函数的debug函数，用于输出当前变量的类型及值， 特点如下：
 
 1. 递归地输出变量的所有成员类型及值
